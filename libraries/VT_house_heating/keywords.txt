@@ -1,0 +1,6 @@
+VT_house_heating	KEYWORD1
+set_heating_on	KEYWORD2
+set_heating_off	KEYWORD2
+is_heating_on	KEYWORD2
+set_desired_temp	KEYWORD2
+turn_on_heating_on_min_temp	KEYWORD2

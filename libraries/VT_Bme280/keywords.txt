@@ -1,0 +1,11 @@
+VT_Bme280	KEYWORD1
+is_available	KEYWORD2
+print_sensor_unavailable	KEYWORD2
+print_sensor_values	KEYWORD2
+get_temperature	KEYWORD2
+get_pressure	KEYWORD2
+get_altitude	KEYWORD2
+get_humidity	KEYWORD2
+set_read_delay_in_seconds	KEYWORD2
+get_read_delay	KEYWORD2
+set_bme_adress	KEYWORD2

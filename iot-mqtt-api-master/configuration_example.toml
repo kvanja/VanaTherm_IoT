@@ -1,0 +1,19 @@
+[log]
+filename = "iot-mqtt-api.log"
+
+[database]
+host = "127.0.0.1"
+port = "1433"
+user = "sa"
+password = "secret"
+name = "iot-mqtt-api"
+
+[mqtt]
+host = "127.0.0.1"
+port = "1883"
+user = "user"
+password = "secret"
+clientid = "iot-mqtt-api"
+subscriptions = [
+    "iot/1/data"
+]
