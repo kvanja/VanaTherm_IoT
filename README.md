@@ -1,3 +1,3 @@
-# RAIoT
+# VanaTherm
 
-Klijentski dio
+This is IoT arduino c for hardware, with Go lang backend
